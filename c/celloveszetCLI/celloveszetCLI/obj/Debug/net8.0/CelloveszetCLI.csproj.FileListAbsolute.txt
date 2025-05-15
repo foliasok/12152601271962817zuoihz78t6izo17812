@@ -1,0 +1,28 @@
+C:\Users\Tanulo\Desktop\Dolgozat A\CelloveszetCLI\bin\Debug\net8.0\CelloveszetCLI.exe
+C:\Users\Tanulo\Desktop\Dolgozat A\CelloveszetCLI\bin\Debug\net8.0\CelloveszetCLI.deps.json
+C:\Users\Tanulo\Desktop\Dolgozat A\CelloveszetCLI\bin\Debug\net8.0\CelloveszetCLI.runtimeconfig.json
+C:\Users\Tanulo\Desktop\Dolgozat A\CelloveszetCLI\bin\Debug\net8.0\CelloveszetCLI.dll
+C:\Users\Tanulo\Desktop\Dolgozat A\CelloveszetCLI\bin\Debug\net8.0\CelloveszetCLI.pdb
+C:\Users\Tanulo\Desktop\Dolgozat A\CelloveszetCLI\obj\Debug\net8.0\CelloveszetCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\Desktop\Dolgozat A\CelloveszetCLI\obj\Debug\net8.0\CelloveszetCLI.AssemblyInfoInputs.cache
+C:\Users\Tanulo\Desktop\Dolgozat A\CelloveszetCLI\obj\Debug\net8.0\CelloveszetCLI.AssemblyInfo.cs
+C:\Users\Tanulo\Desktop\Dolgozat A\CelloveszetCLI\obj\Debug\net8.0\CelloveszetCLI.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\Desktop\Dolgozat A\CelloveszetCLI\obj\Debug\net8.0\CelloveszetCLI.dll
+C:\Users\Tanulo\Desktop\Dolgozat A\CelloveszetCLI\obj\Debug\net8.0\refint\CelloveszetCLI.dll
+C:\Users\Tanulo\Desktop\Dolgozat A\CelloveszetCLI\obj\Debug\net8.0\CelloveszetCLI.pdb
+C:\Users\Tanulo\Desktop\Dolgozat A\CelloveszetCLI\obj\Debug\net8.0\CelloveszetCLI.genruntimeconfig.cache
+C:\Users\Tanulo\Desktop\Dolgozat A\CelloveszetCLI\obj\Debug\net8.0\ref\CelloveszetCLI.dll
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\celloveszetCLI.exe
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\celloveszetCLI.deps.json
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\celloveszetCLI.runtimeconfig.json
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\celloveszetCLI.dll
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\celloveszetCLI.pdb
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.AssemblyInfoInputs.cache
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.AssemblyInfo.cs
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.csproj.CoreCompileInputs.cache
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.dll
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\refint\celloveszetCLI.dll
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.pdb
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.genruntimeconfig.cache
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\ref\celloveszetCLI.dll

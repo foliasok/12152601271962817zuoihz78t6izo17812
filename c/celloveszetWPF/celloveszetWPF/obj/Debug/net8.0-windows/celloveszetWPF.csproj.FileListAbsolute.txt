@@ -1,0 +1,40 @@
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\bin\Debug\net8.0-windows\celloveszetWPF.exe
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\bin\Debug\net8.0-windows\celloveszetWPF.deps.json
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\bin\Debug\net8.0-windows\celloveszetWPF.runtimeconfig.json
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\bin\Debug\net8.0-windows\celloveszetWPF.dll
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\bin\Debug\net8.0-windows\celloveszetWPF.pdb
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF_MarkupCompile.cache
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF_MarkupCompile.lref
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.g.resources
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.AssemblyInfoInputs.cache
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.AssemblyInfo.cs
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.dll
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\obj\Debug\net8.0-windows\refint\celloveszetWPF.dll
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.pdb
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.genruntimeconfig.cache
+C:\Users\Tanulo\Desktop\Dolgozat A\celloveszetWPF\obj\Debug\net8.0-windows\ref\celloveszetWPF.dll
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\bin\Debug\net8.0-windows\celloveszetWPF.exe
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\bin\Debug\net8.0-windows\celloveszetWPF.deps.json
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\bin\Debug\net8.0-windows\celloveszetWPF.runtimeconfig.json
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\bin\Debug\net8.0-windows\celloveszetWPF.dll
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\bin\Debug\net8.0-windows\celloveszetWPF.pdb
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF_MarkupCompile.cache
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF_MarkupCompile.lref
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.g.resources
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.AssemblyInfoInputs.cache
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.AssemblyInfo.cs
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.csproj.CoreCompileInputs.cache
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.dll
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\obj\Debug\net8.0-windows\refint\celloveszetWPF.dll
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.pdb
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\obj\Debug\net8.0-windows\celloveszetWPF.genruntimeconfig.cache
+C:\Users\bales\Desktop\Vizsgáragyakorlásgenyó\c#\celloveszetWPF\celloveszetWPF\obj\Debug\net8.0-windows\ref\celloveszetWPF.dll
